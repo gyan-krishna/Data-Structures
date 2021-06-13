@@ -1,6 +1,5 @@
 # Singly Linked List:
 
-/**********************************************************************************
 * FILENAME  : Linked Lists/1. singly linked list/SinglyLinkedListTest.java
 * REPO LINK : https://github.com/gyan-krishna/Data-Structures
 * 
@@ -23,4 +22,3 @@
 *
 * AUTHOR : Gyan Krishna Sreekar                     DATE : 12/6/2021
 * 
-***********************************************************************************/
