@@ -1,9 +1,9 @@
 # Singly Linked List:
+<b>Filename  :</b> Linked Lists/1. singly linked list/SinglyLinkedListTest.java <br>
+<b>Repo Link :</b> https://github.com/gyan-krishna/Data-Structures
 
-### Filename  : Linked Lists/1. singly linked list/SinglyLinkedListTest.java
-### Repo Link : https://github.com/gyan-krishna/Data-Structures
-
-### Public functions of class SinglyLinkedList:
+## class SinglyLinkedList
+### Public functions:
 * public void append(int data)            : Append a new node to the end of the LL.
 * public void traverse()                  : Traverse and display the LL.
 * public int search(int s)                : Search for s in LL
@@ -14,6 +14,6 @@
 ### Todo :
 * Add menu in main method.
 
-### Author  : Gyan Krishna Sreekar                     
-### Date    : 12/6/2021
+Author  : Gyan Krishna Sreekar                     
+Date    : 12/6/2021
 
