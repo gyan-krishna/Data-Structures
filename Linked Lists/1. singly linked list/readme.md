@@ -3,7 +3,7 @@
 ### Filename  : Linked Lists/1. singly linked list/SinglyLinkedListTest.java
 ### Repo Link : https://github.com/gyan-krishna/Data-Structures
 
-### Public functions SinglyLinkedList:
+### Public functions of class SinglyLinkedList:
 * public void append(int data)            : Append a new node to the end of the LL.
 * public void traverse()                  : Traverse and display the LL.
 * public int search(int s)                : Search for s in LL
